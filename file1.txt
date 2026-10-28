@@ -1,2 +1,7 @@
 Hii
+<<<<<<< HEAD
 devops lab
+=======
+good evening
+>>>>>>> feature1
+laboratory
